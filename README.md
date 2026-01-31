@@ -13,7 +13,7 @@
 ### 🌱 Currently Learning
 - Python
 - DBMS
--Data Analytics
+- Data Analytics
 
 ### 📫 How to reach me
 - GitHub: @annmariya23
