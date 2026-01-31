@@ -1,16 +1,24 @@
 ## Hi ,I'm Ann mariya 👋
-Computer Science(Artificial Intelligence & Data science)  Student
-<!--
-**annmariya23/annmariya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Computer Science (AI & Data Science) Student  
+🌱 Learning Python, DBMS, C programming & GitHub  
+📊 Interested in Data Analysis and Machine Learning  
 
-- 🔭 Computer Science(Artificial Intelligence & Data science)  Student
-- 🌱 Learning Python,DBMS,C programming and github
-- 👯 Interest in Data analysis and ML
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Python
+- DBMS
+- C Programming
+- Git & GitHub
+
+### 🌱 Currently Learning
+- Python
+- DBMS
+-Data Analytics
+
+### 📫 How to reach me
+- GitHub: @annmariya23
+- Email: mariyaannsam23@gmail.com
+
+
+
+
